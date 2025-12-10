@@ -10,6 +10,7 @@ public class FirstrestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstrestApplication.class, args);
+		System.out.println("Jenkins Starts");
 	}
 
 }
